@@ -1,0 +1,27 @@
+/* Header Styling */
+#logo {
+  max-height: 5em;
+}
+
+.header-name {
+  margin-bottom: 0;
+  color: #7d97ad;
+  font-weight: lighter;
+}
+
+#header-divider {
+  height: 3px;
+  color: #7d97ad;
+  background-color: #7d97ad;
+  border: 0 none;
+}
+
+/* Project Styling */
+#project-header {
+  margin-top: 1em;
+  color: #7d97ad;
+}
+
+.project:not(:last-child) {
+  margin-right: .5em;
+}
