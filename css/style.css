@@ -13,6 +13,9 @@
   color: #7d97ad;
   height: 3px;
 }
+.main-img img {
+  width: 100%;
+}
 
 /* Project Styling */
 #project-header {
