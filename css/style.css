@@ -2,17 +2,20 @@
 #logo {
   max-height: 5em;
 }
+
 .header-name {
   color: #7d97ad;
   font-weight: lighter;
   margin-bottom: 0;
 }
+
 #header-divider {
   background-color: #7d97ad;
   border: 0 none;
   color: #7d97ad;
   height: 3px;
 }
+
 .main-img img {
   width: 100%;
 }
@@ -22,6 +25,7 @@
   color: #7d97ad;
   margin-top: 1em;
 }
+
 .project:not(:last-child) {
-  margin-right: .5em;
+  margin-right: 0.5em;
 }
